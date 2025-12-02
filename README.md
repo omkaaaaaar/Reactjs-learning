@@ -39,3 +39,16 @@ Steps -
 
 - Install Vite
 - Create new app
+
+To run use, 
+```
+npm run dev
+```
+in terminal
+
+--
+**Code Folder Structure**
+- Ignore node modules, react app needs it to run basically, no changes are made here
+- Public Folder: Images, vids, svg will go here
+- src: 
+--
